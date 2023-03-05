@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
-========================
-
-* 🌍  I'm based in Taipei
-* ✉️  You can contact me at [ycwei98@gmail.com](mailto:ycwei98@gmail.com)
+## Hi there 👋
 
 ### Skills
 
